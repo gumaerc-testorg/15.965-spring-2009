@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the short papers, final paper, and
+  presentations assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

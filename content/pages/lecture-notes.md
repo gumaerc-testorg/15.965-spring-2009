@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with notes
+  and case questions from selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,10 +44,10 @@ CASE QUESTIONS
 What is technology strategy and why does it matter
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec01))
+({{% resource_link 9ada49aa-1b9b-a380-4840-28a6478fc4d2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case01))
+({{% resource_link cbf0a2a9-9161-dff2-480a-9d036a0eb989 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +68,7 @@ Technological innovation
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case02))
+({{% resource_link 965f93ff-f214-2e32-7c12-1ed3d734b07a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,10 +80,10 @@ Technological innovation
 Technological innovation and design options
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec03))
+({{% resource_link cfcd5757-cf2b-6adf-7e77-5169d5aa0b94 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case03))
+({{% resource_link 41b650ce-ab45-4f57-58a7-7573dc8a3264 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Technological innovation and design options
 Projects (an opportunity to present proposals for project ideas)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec04))
+({{% resource_link b5f8fa17-a9e9-7182-1eca-3887d0124c2f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -114,10 +116,10 @@ Projects (an opportunity to present proposals for project ideas)
 Demand opportunity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec05))
+({{% resource_link e7e05430-3621-f775-fd4e-cbd6501a3de1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case05))
+({{% resource_link 72c18333-af0b-c0b5-0cad-798804b5fc75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,10 +131,10 @@ Demand opportunity
 Marketing high-tech products
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec06))
+({{% resource_link b1dcbd94-59c3-881a-725a-32e445307f5f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case06))
+({{% resource_link 5c1314ac-1840-e574-cd78-01e37efc68d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Marketing high-tech products
 Debrief and discussion on demand opportunity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec07))
+({{% resource_link ffd96fca-1c29-3a04-22f9-f7fcc41c6648 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -162,7 +164,7 @@ Life-cycles and transitions
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case08))
+({{% resource_link fab44d7e-47e6-4b5e-b624-6bb30739859f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,10 +176,10 @@ Life-cycles and transitions
 Responses to transitions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec09))
+({{% resource_link 38e52a97-a8f3-dba2-6008-128ed7e095a1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case09))
+({{% resource_link 913b0f1f-c235-7bd2-db0a-79d9505914b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Responses to transitions
 Debrief and discussion on transitions and disruption
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec10))
+({{% resource_link 2552c7e2-fa9e-bff2-82d5-18fa5e28937c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -210,10 +212,10 @@ Debrief and discussion on transitions and disruption
 Business ecosystems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec11))
+({{% resource_link d9b103ad-5cb5-7c0c-7a7a-e839723b142c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case11))
+({{% resource_link 68446109-6877-ca9c-d88b-ae041d46e45b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +230,7 @@ Standards battles
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case12))
+({{% resource_link 610692e8-ec12-8c22-f828-da804ba4dafc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +245,7 @@ Ecosystems, standards and value capture
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case13))
+({{% resource_link 07326c73-9acb-48fb-eb1e-d6bc704ca399 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ Open innovation and open source
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case15))
+({{% resource_link cb629618-5e26-2e9e-169c-95e19c0c29a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ Open innovation and open source
 Debrief and discussion on open innovation and open source
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec16))
+({{% resource_link e52628c9-2fd3-7435-de3b-82d8bfab26c7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -309,7 +311,7 @@ Strategy and adaptation
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case17))
+({{% resource_link a5993a6e-a7c4-4643-54b0-f0b05f34549b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +371,7 @@ Tough decisions
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_case21))
+({{% resource_link caf6201d-c129-f312-c019-2835b6b1bd16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +383,7 @@ Tough decisions
 Debrief and discussion on decision-making
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_965s09_lec22))
+({{% resource_link 8e0e8c8b-6089-c5bf-258d-469fcf9a710a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
