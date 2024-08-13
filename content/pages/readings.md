@@ -263,7 +263,7 @@ Standards battles
 
 Tripsas, Mary. "Adobe® Systems, Inc." Harvard Business School Case. Boston, MA: Harvard Business School Publishing. Case: 9-801-199, December 5, 2000.
 
-Shapiro, Carl, and Hal Varian. "[The Art of Standards Wars](http://docs.google.com/viewer?a=v&q=cache:_Py1b8OVGpkJ:faculty.haas.berkeley.edu/SHAPIRO/wars.pdf+The+Art+of+Standards+Wars+california+management+review&hl=en&gl=us&pid=bl&srcid=ADGEESjlkQNVoSjJIra0Txf1e_FVj2JV55wULlZS11M_Z-xLd3iQJwdwOpwIo-ZQqN05dbdCjGUTqNSTLG43jLFp1E0Q9cGBijCUzvmuFJzLSWKAzyAarO4h12TfYSFYxWnTm9zExQdL&sig=AHIEtbQ_0ZePfu6LmLb4G6Cz8pgjQIso_A)." _California Management Review_ 41, no. 2 (1999): 8-32.
+Shapiro, Carl, and Hal Varian. "{{% resource_link "5039a538-768b-4072-a699-6b3e867f4427" "The Art of Standards Wars" %}}." _California Management Review_ 41, no. 2 (1999): 8-32.
 
 Cusumano, Michael, and Y. Mylonadis. "Strategic Maneuvering and Mass Market Dynamics: The Triumph of VHS over Beta." _Business History Review_ 66 (1992): 51-94.
 
@@ -415,7 +415,7 @@ Simulation
 {{< tdopen >}}
 
 
-Christensen, Clayton M., and Willy Shih. "[Strategic Innovation Simulation: Back Bay Battery](http://academic.hbsp.harvard.edu/backbaybatteryv3)." _Harvard Business Review_, August 28, 2009.
+Christensen, Clayton M., and Willy Shih. "{{% resource_link "f80fa114-281f-4de4-a47c-b8296a922bad" "Strategic Innovation Simulation: Back Bay Battery" %}}." _Harvard Business Review_, August 28, 2009.
 
 Eisenhardt, Kathleen. "Making Fast Strategic Decisions in High-Velocity Environments." _Academy of Management Journal_ 32, no. 3 (1989): 543-576.
 
